@@ -1,5 +1,6 @@
 # Hi-Lo
-Higher/lower guessing game implemented with JavaScript.  
+Higher/lower guessing game implemented with JavaScript, focus on jQuery. 
+* [View the Angular version here](https://github.com/evwilkin/hi-lo-angular "Hi-Lo Game w/Angular") 
 ### Rules:
  - The dealer will draw a card from the deck. Your goal is to guess if the next card will be higher or lower than that card.
  - Guess correctly 3 times in a row and you can choose to pass play to the other player or keep guessing.
